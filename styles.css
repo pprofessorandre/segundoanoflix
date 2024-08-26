@@ -1,0 +1,26 @@
+body{
+    color:coral;
+    background: orchid;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header{
+    border-bottom: solid white;
+    padding: 25px;
+    font-size: 34px;
+}
+
+section{
+    background: white;
+    padding: 70px;
+    justify-content:center;
+    
+}
+h1 {
+    font-size: 43px;
+}
+
+p {
+    font-size: 34px;
+}
